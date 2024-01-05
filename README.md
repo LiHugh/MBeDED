@@ -34,11 +34,9 @@ We propose the Marginal Benefit and Diversity driven Environment Design (MBeDED)
 ## 4. Experiment Domain
 we present our experimental results in the domains of BipedalWalker, Minigrid, and CarRacing to demonstrate the superior performance of our approach when a trained agent is transferred to new environments.
 
-![image](Figures/walker_example_new.PNG =100)![image](Figures/maze_example.PNG =100)![image](Figures/car_example.PNG =100)
+
 <center class ='img'>
-<img title="XX" src="Figures/walker_example_new.PNG" width="32%">
-<img title="XX" src="Figures/maze_example.PNG" width="32%">
-<img title="XX" src="igures/car_example.PNG " width="32%">
+<img title="XX" src="Figures/walker_example_new.PNG" width="32%"><img title="XX" src="Figures/maze_example.PNG" width="32%"><img title="XX" src="Figures/car_example.PNG " width="32%">
 </center>
 
 
